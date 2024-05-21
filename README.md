@@ -1,6 +1,11 @@
+<p align="center">  
+<img width="100%" height="500" src="https://repository-images.githubusercontent.com/589856475/2bd94194-2dbb-4e07-aef8-1db6eb98f133"/>
+
+
 <h2 align= center> 
-<blue text> JACOBIAN MATRIX
-<h2 align= center> INTRODUCTION
+<B></B>ROBOTICS 2:FINAL PROJECT
+<h1 align= center><blue text> JACOBIAN MATRIX PATH AND TRAJECTORY
+<h3 align= center> I.INTRODUCTION
 
 
 <h2 align= center> 
