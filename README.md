@@ -76,8 +76,12 @@ This code provides a foundation for the Jacobian matrix. You can extend this pro
 * Visualizing the relationship between joint velocities and end-effector motion.
 * Analyzing the manipulability workspace of a specific robot using the Jacobian determinant.
 
+<h2 align= left> &#x2022;JACOBIAN MATRIX CALCULATOR OF SCARA MANIPULATOR&#x2022;
+
+##
+  
 <p align="center">
 <img width="75%" src="https://scontent.fmnl17-1.fna.fbcdn.net/v/t1.15752-9/441730275_1501153343809081_7698328196178693950_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=p7CksroE-10Q7kNvgG4bVj6&_nc_ht=scontent.fmnl17-1.fna&oh=03_Q7cD1QGc4GAns-Od1PUyZcokNgwK900gd1RnCQtHXVoRHeoBrQ&oe=667566B5">
-
-
+<p align="center">
+<img width="75%" src="https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.15752-9/438299695_475377898241746_5114152467640696978_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eWMnrEbLG0UQ7kNvgGvCx8G&_nc_ht=scontent.fmnl17-4.fna&oh=03_Q7cD1QHzYLKNwK0Igt2V7dv5igbl4Ky8flpESORBpTwR7ThH9Q&oe=66759AFC">
 
