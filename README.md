@@ -49,19 +49,7 @@ This repository may include the following files (depending on your implementatio
 
 * `jacobian(q)`: This function calculates the Jacobian matrix for a given robot configuration represented by its joint angles (q).
 
-**Getting Started**
 
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/your-username/jacobian_matrix.git
-```
-
-2. **Install dependencies (if any):**
-
-   - The specific dependencies will depend on the libraries or frameworks used for calculations (e.g., NumPy for mathematical operations). Check the code for any requirements files and install them using the appropriate package manager.
-
-**Example Usage (modify based on your code implementation):**
 
 ```python
 from jacobian import jacobian
@@ -87,9 +75,7 @@ This code provides a foundation for the Jacobian matrix. You can extend this pro
 * Visualizing the relationship between joint velocities and end-effector motion.
 * Analyzing the manipulability workspace of a specific robot using the Jacobian determinant.
 
-**License**
 
-This project is licensed under the (insert your chosen license here). See the LICENSE file for details.
 
 **Contribution**
 
