@@ -84,8 +84,8 @@ This code provides a foundation for the Jacobian matrix. You can extend this pro
 <img width="75%" src="https://scontent.fmnl17-1.fna.fbcdn.net/v/t1.15752-9/441730275_1501153343809081_7698328196178693950_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=p7CksroE-10Q7kNvgG4bVj6&_nc_ht=scontent.fmnl17-1.fna&oh=03_Q7cD1QGc4GAns-Od1PUyZcokNgwK900gd1RnCQtHXVoRHeoBrQ&oe=667566B5">
 <p align="center">
 <img width="75%" src="https://scontent.fmnl17-4.fna.fbcdn.net/v/t1.15752-9/438299695_475377898241746_5114152467640696978_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eWMnrEbLG0UQ7kNvgGvCx8G&_nc_ht=scontent.fmnl17-4.fna&oh=03_Q7cD1QHzYLKNwK0Igt2V7dv5igbl4Ky8flpESORBpTwR7ThH9Q&oe=66759AFC">
-
 <p align="center">
-
 <img width="75%" src="https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.15752-9/438312486_7417350545040334_5633278837818995920_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ld9qc7PX-YkQ7kNvgGck7TI&_nc_ht=scontent.fmnl30-3.fna&oh=03_Q7cD1QFcQifCt2BA2N-nh6A1Po88fgpPDvTXuS8YTlg6WxSWqw&oe=6675BE6C">
+<p align="center">
+<img width="75%" scr="https://scontent.xx.fbcdn.net/v/t1.15752-9/438293850_904579228103126_4434644675478101780_n.jpg?stp=dst-jpg_s403x403&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TeT2Skxhq-IQ7kNvgGU-smD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QEpMcQpVRdPNQV2A7KrHeXpuYqHLjXDCsD8wwo8oxmkyw&oe=667665B4">
 
