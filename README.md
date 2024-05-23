@@ -6,13 +6,17 @@
 <h2 align= center> 
 <B></B>ROBOTICS 2:FINAL PROJECT
 <h1 align= center><blue text> JACOBIAN MATRIX PATH AND TRAJECTORY
-<h3 align= center> INTRODUCTION
+
+##
+<h1 align= left> INTRODUCTION
+  
+<p align="center">  
+<img width="75%" src="https://blogs.mathworks.com/racing-lounge/files/2019/11/trap_vs_poly.gif">
 
 
 <h2 align= center> 
-  
-###
 
+###
 The Jacobian matrix plays a vital role in the world of robot kinematics. It acts as a translator, bridging the gap between the robot's internal world of joint movements and the external world of the end-effector's motion. Imagine the robot's end-effector as its "hand." The Jacobian matrix tells us precisely how fast and in what direction this hand will move for a given set of joint rotations or extensions. This information is captured in a rectangular matrix that relates joint velocities (how quickly the joints are moving) to the linear and angular velocities (the speed and direction) of the end-effector.
 
 The applications of the Jacobian matrix are far-reaching. It's a cornerstone for developing control algorithms. These algorithms rely on the Jacobian to precisely guide the robot's end-effector along desired paths. Additionally, by analyzing the Jacobian, engineers can assess the robot's manipulability and dexterity within its workspace. This analysis helps ensure efficient and collision-free motion, crucial for safe and effective robot operation.
@@ -21,6 +25,9 @@ The applications of the Jacobian matrix are far-reaching. It's a cornerstone for
 
 ###
 The Jacobian matrix is a workhorse in math and engineering, particularly in robotics. It acts like a translator, taking information about joint movements (how a robot's joints bend or rotate) and converting it into the resulting motion of the robot's end-effector (like its "hand"). 
+
+<p align="center">  
+<img width="60%" height="300"src="https://pbs.twimg.com/media/FGQvM2xXEAM8cRr.jpg"/>
 
 This concept has a long history, with the groundwork laid in calculus and linear algebra during the 17th and 18th centuries. The mid-19th century saw mathematician Carl Gustav Jacob Jacobi formally define and explore the Jacobian matrix's properties.
 
