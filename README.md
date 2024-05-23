@@ -6,7 +6,7 @@
 <h2 align= center> 
 <B></B>ROBOTICS 2:FINAL PROJECT
 <h1 align= center><blue text> JACOBIAN MATRIX PATH AND TRAJECTORY
-<h3 align= center> I.INTRODUCTION
+<h3 align= center> INTRODUCTION
 
 
 <h2 align= center> 
@@ -87,5 +87,6 @@ This code provides a foundation for the Jacobian matrix. You can extend this pro
 <p align="center">
 <img width="75%" src="https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.15752-9/438312486_7417350545040334_5633278837818995920_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ld9qc7PX-YkQ7kNvgGck7TI&_nc_ht=scontent.fmnl30-3.fna&oh=03_Q7cD1QFcQifCt2BA2N-nh6A1Po88fgpPDvTXuS8YTlg6WxSWqw&oe=6675BE6C">
 <p align="center">
-<img width="75%" scr="https://scontent.xx.fbcdn.net/v/t1.15752-9/438293850_904579228103126_4434644675478101780_n.jpg?stp=dst-jpg_s403x403&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TeT2Skxhq-IQ7kNvgGU-smD&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QEpMcQpVRdPNQV2A7KrHeXpuYqHLjXDCsD8wwo8oxmkyw&oe=667665B4">
+<img width="75%" src="https://scontent.fmnl30-3.fna.fbcdn.net/v/t1.15752-9/438293850_904579228103126_4434644675478101780_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=TeT2Skxhq-IQ7kNvgHVd_7N&_nc_ht=scontent.fmnl30-3.fna&oh=03_Q7cD1QE1_EHMG1Dkej6QlC4owXxUQB9CJRGdyx_KkTwJi7KgIg&oe=667665B4">
+
 
